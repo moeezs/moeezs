@@ -1,8 +1,7 @@
-# hey, i'm moeez 👋
+## hey, i'm moeez 👋
 
 comp sci student at mcmaster · incoming software engineer
 
----
 
 ### 🛠 what i work with
 
@@ -14,15 +13,12 @@ comp sci student at mcmaster · incoming software engineer
 ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss)
 ![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk)
 
----
 
 ### 🚀 things i've built
 
-**[Just Apply](https://github.com/moeezs/just-apply)** - job application automation. ai-powered, built with next.js + gemini api
+**[Just Apply](https://github.com/moeezs/just-apply)** - job application automation. ai-powered, built with next.js + gemini api  
 **[DeltaHacks](https://github.com/deltahacks)** - technical exec @ mcmaster's largest hackathon. built infra + portal for 1000+ applicants  
 **[Commence](https://github.com/moeezs/commence)** - extracts deadlines and grades from pdf syllabi and pushes them straight to your calendar  
-
----
 
 ### 📬 reach me
 
