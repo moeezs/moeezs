@@ -1,6 +1,6 @@
-## hey, i'm moeez 👋
+## Hey, I'm Moeez 👋
 
-comp sci student at mcmaster · incoming software engineer
+Computer Science student at McMaster · Incoming Software Engineer
 
 
 ### 🛠 what i work with
@@ -13,6 +13,8 @@ comp sci student at mcmaster · incoming software engineer
 ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss)
 ![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk)
 
+### 📌 things i'm working on
+**[TeXit](https://github.com/moeezs/texit)** - ai-powered live latex editor
 
 ### 🚀 things i've built
 
